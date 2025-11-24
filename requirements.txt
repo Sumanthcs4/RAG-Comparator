@@ -1,0 +1,14 @@
+pymupdf
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+transformers
+openai
+python-dotenv
+tqdm
+numpy 
+pandas
+streamlit
+plotly

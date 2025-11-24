@@ -1,0 +1,26 @@
+# Ignore PDF dataset
+data/pdfs/*
+*.pdf
+
+# Ignore processed / intermediate JSON files
+data/cleaned/*
+data/processed/*
+data/chunks/*
+
+# Ignore vectorstore indexes
+vectorstore/*
+*.index
+*.json
+
+# Ignore general large files
+*.pkl
+*.bin
+*.npy
+*.npz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+venv/
+.env
+.env.*
